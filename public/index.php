@@ -7,7 +7,7 @@
 <body>
 	<h1>Sistema de audio</h1>
 	<br />
-	Objetivo do Projeto
+	Objetivos Gerais do Projeto
 	<ul>
 		<li>Objetivo 1</li>
 		<li>Objetivo 2</li>
